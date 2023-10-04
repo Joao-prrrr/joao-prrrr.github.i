@@ -1,0 +1,36 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "Countries API",
+    "description": "search engine for countries",
+    "short_name": "Countries API",
+    "scope": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "theme_color": "#000000",
+    "background_color": "#1e90ff",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/5277/5277459.png",
+            "sizes": "512x512"
+        }
+
+    ]
+}
